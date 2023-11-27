@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Varun Kumar K J!
 
-🚀 Data Enthusiast | Analytics | SQL | Power BI
+🚀 Data Analytics Enthusiast | Analytics | SQL | Power BI
 
 🌐 Exploring the intersection of data and insights! Currently on a journey into the world of data analytics, armed with Excel and Power BI as my trusty companions. My coding wand dances with SQL to unveil patterns and narratives hidden in datasets.
 
@@ -18,7 +18,7 @@
    - Excel Formulas and Functions: Advanced
 
 📈 **Projects:**
-   - 📊 [Gender and Religious based Marital status across Districts of Karnataka](Link-to-Project-Repo): Brief description of the project and key insights.
+   - 📊 [Data Analysis ofGender and Religious based Marital status across Districts of Karnataka](Link-to-Project-Repo): Brief description of the project and key insights.
 
 
 📚 **Education:**
