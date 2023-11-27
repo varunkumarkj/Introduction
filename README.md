@@ -30,7 +30,8 @@
 🤝 Open to collaboration and eager to connect with fellow data enthusiasts, analysts, and anyone passionate about the power of data!
 
 📫 Let's connect:
-   - LinkedIn: [https://www.linkedin.com/in/varun-kumar-055b74200/]
+   - LinkedIn: (https://www.linkedin.com/in/varun-kumar-055b74200/)
+   - Mail: varunkj007@gmail.com
  
 
 🔗 **Check out my latest work and let's embark on a data-driven journey together!**
