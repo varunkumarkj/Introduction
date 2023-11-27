@@ -18,7 +18,7 @@
    - Excel Formulas and Functions: Advanced
 
 📈 **Projects:**
-   - 📊 [Data Analysis ofGender and Religious based Marital status across Districts of Karnataka](Link-to-Project-Repo): Brief description of the project and key insights.
+   - 📊 [Data Analysis of Marital status based Gender and Religion across the Districts of Karnataka](Link-to-Project-Repo): Brief description of the project and key insights.
 
 
 📚 **Education:**
