@@ -18,7 +18,7 @@
    - Excel Formulas and Functions: Advanced
 
 📈 **Projects:**
-   - 📊 [Project Name 1](Link-to-Project-Repo): Brief description of the project and key insights.
+   - 📊 [Gender and Religious based Marital status across Districts of Karnataka](Link-to-Project-Repo): Brief description of the project and key insights.
 
 
 📚 **Education:**
